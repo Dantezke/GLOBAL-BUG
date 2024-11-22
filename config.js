@@ -1,5 +1,5 @@
 global.namaown = "Qasim Ali" // your owner name here
-global.namabot = "© GlobalTechInfo" // your bot name here
+global.namabot = "© DannyTechInfo" // your bot name here
 global.versisc = "9.5.0" //
 global.owner = ["254115770750"] // your owner number here
 global.tele = "https://t.me/GlobalBotInc" // your telegram here
@@ -27,7 +27,7 @@ global.my = {
 
 global.mess = {
     success: 'ᴅᴏɴᴇ',
-    admin: '_*❗ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ ᴀᴅᴍɪɴ !*_',
+    admin: '_*❗ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ ᴀᴅᴍɪɴ  or else fuck you!*_',
     botAdmin: '_*❗ʙᴏᴛ ᴍᴜꜱᴛ ʙᴇ ᴛʜᴇ ᴀᴅᴍɪɴ !*_',
     OnlyOwner: '_*❗ᴏᴡɴᴇʀꜱ ꜱᴘᴇᴄɪᴀʟ ꜰᴜɴᴄᴛɪᴏɴ !*_',
     OnlyGrup: '_*❗ꜱᴘᴇᴄɪᴀʟ ꜰᴜɴᴄᴛɪᴏɴ ꜰᴏʀ ɢʀᴏᴜᴘ !*_',
