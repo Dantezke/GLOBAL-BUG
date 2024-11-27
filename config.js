@@ -1,7 +1,7 @@
 global.namaown = "Qasim Ali" // your owner name here
 global.namabot = "© saleemTechInfo" // your bot name here
 global.versisc = "9.5.0" //
-global.owner = ["‏‪2349063672088‬‏"] // your owner number here
+global.owner = ["‏‪‏‪234 906 367 2088‬‏‬‏"] // your owner number here
 global.tele = "https://t.me/GlobalBotInc" // your telegram here
 global.url = "https://www.youtube.com/@GlobalTechInfo" // Your YouTube Here
 global.namastore = "LynnZxD" // UBAH NAMA STORE LU
